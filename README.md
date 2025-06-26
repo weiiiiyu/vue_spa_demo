@@ -1,5 +1,10 @@
-# Vue 3 + Vite
+收藏網址小工具
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+此專案是一個簡單的 Vue.js 應用程式，讓使用者可以收藏和管理網址。使用者可以新增網址、清除所有收藏的網址、開啟網址至新分頁、以及刪除特定的收藏。
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+功能
+
+新增網址至收藏列表
+清除所有收藏的網址
+開啟收藏的網址至新分頁
+刪除特定收藏的網址
